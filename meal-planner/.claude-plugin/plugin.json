@@ -1,0 +1,7 @@
+{
+  "name": "meal-planner",
+  "version": "0.1.0",
+  "description": "Meal planning assistance — suggests meals, builds shopping lists, and tracks nutrition.",
+  "author": "swilliams96",
+  "keywords": ["meal-planning", "nutrition", "cooking", "shopping-list"]
+}
