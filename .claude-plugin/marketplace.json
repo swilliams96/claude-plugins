@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "swilliams96-plugins",
+  "description": "Personal Claude Code plugins by swilliams96",
+  "owner": {
+    "name": "swilliams96"
+  },
+  "plugins": [
+    {
+      "name": "meal-planner",
+      "description": "Meal planning assistant with ClickUp integration — plans weekly meals, sources recipes, generates consolidated shopping lists, and saves them to ClickUp.",
+      "author": {
+        "name": "swilliams96"
+      },
+      "category": "productivity",
+      "source": "./meal-planner"
+    }
+  ]
+}
