@@ -1,7 +1,7 @@
 ---
-name: meal-planning
+name: meal-planner
 description: >
-  Weekly meal planning assistant with ClickUp integration, shopping list generation, and recipe ideation.
+  Weekly meal planner with ClickUp integration, shopping list generation, and recipe ideation.
   Trigger this skill whenever the user mentions meal planning, planning meals for the week, deciding what
   to cook, figuring out dinners, making a shopping list, or anything related to food planning or grocery
   shopping. Also trigger when the user asks for recipe ideas, says they're stuck on what to cook, or wants
@@ -10,7 +10,7 @@ description: >
   confirmation before reading this file.
 ---
 
-# Meal Planning Skill
+# Meal Planner Skill
 
 **CRITICAL — Follow each phase in the exact order below. Do not skip phases. Do not combine steps from different phases. Do not proceed to the next phase without fully completing the current one. Use the specified agents at the points described — do not attempt to perform agent tasks inline.**
 
@@ -204,7 +204,7 @@ Once all per-recipe blocks are in hand:
 - `week_label`: the date range for the week, e.g. "19–23 May 2025"
 - `people_cooking_for`: from Phase 1
 
-The agent will consolidate all ingredients, run the verification pass, create or find a "Meal Planning" folder in the Personal ClickUp space, create a shopping list doc, and return the formatted list plus the ClickUp doc URL.
+The agent will consolidate all ingredients, run the verification pass, create or find a "Meal Planner" folder in the Personal ClickUp space, create a shopping list doc, and return the formatted list plus the ClickUp doc URL.
 
 **Present the final shopping list to the user**, then:
 > "I've also saved your shopping list to ClickUp: [link]"

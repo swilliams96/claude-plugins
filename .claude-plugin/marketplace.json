@@ -8,7 +8,7 @@
   "plugins": [
     {
       "name": "meal-planner",
-      "description": "Meal planning assistant with ClickUp integration — plans weekly meals, sources recipes, generates consolidated shopping lists, and saves them to ClickUp.",
+      "description": "Meal planner with ClickUp integration — plans weekly meals, sources recipes, generates consolidated shopping lists, and saves them to ClickUp.",
       "author": {
         "name": "swilliams96"
       },
