@@ -61,7 +61,7 @@ The main practical difference is that without sub-agents, all phases run in a si
 ## Files
 
 ```
-claude-ai/
+claude-ai/meal-planner/
 ├── README.md               — this file
 ├── instructions.md         — paste into Project Custom Instructions
 └── knowledge/
